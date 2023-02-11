@@ -1,0 +1,31 @@
+body{
+    background-color: #913175;
+}
+h1{
+    text-align: center;
+    color: #E9E8E8;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 2px;
+    margin: 2px;
+}
+h3{
+    text-align: center;
+    color: #E9E8E8;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 2px;
+    margin: 2px;
+}
+p{
+    text-align: center;
+    color: #E9E8E8;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 2px;
+    margin: 2px;
+}
+.mark{
+    color: #E9E8E8;
+    font-size: 20px;
+}
+.circular{
+    border-radius: 50%;
+}
